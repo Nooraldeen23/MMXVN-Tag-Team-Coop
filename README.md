@@ -2,6 +2,8 @@
 
 Mod by **nooraldeen** (GitHub: Nooraldeen23).
 
+**[Download the playable Beta](https://github.com/Nooraldeen23/MMXVN-Tag-Team-Coop/releases/tag/beta-coop-2026-10-16)** · [Report a bug](https://github.com/Nooraldeen23/MMXVN-Tag-Team-Coop/issues)
+
 This is a **Beta**. Known bugs and crashes remain. Bug reports and community fixes are welcome.
 
 ## What this repository contains
