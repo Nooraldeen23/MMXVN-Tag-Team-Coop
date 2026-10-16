@@ -1,0 +1,15 @@
+event_inherited();
+villainy = 2;
+damage = 8;
+despawn = false;
+expiry = 90;
+speed = 4.7;
+phasing = false;
+piercing = false;
+sprite_index = spr_tag_sigma_slash;
+mask_index = sprite_index;
+image_xscale = -0.4;
+image_yscale = 0.4;
+wave_timer = 0;
+wave_tail = [];
+image_speed = 0;

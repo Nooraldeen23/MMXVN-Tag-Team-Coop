@@ -1,0 +1,14 @@
+event_inherited();
+sprite_index = spr_pickup_soul_mega_appear;
+image_index = 0;
+image_speed = 1;
+image_xscale = 1.25;
+image_yscale = 1.25;
+pickup_type = 7;
+pickup_power = 500;
+pickup_expiry = -1;
+weight = 0;
+yspeed = 0;
+reward_ready = false;
+hover_point = y;
+reward_bait = false;

@@ -1,0 +1,1 @@
+spawning_start = true;

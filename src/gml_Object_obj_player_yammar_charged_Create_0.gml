@@ -1,0 +1,10 @@
+event_inherited();
+bullet_damage = 2;
+expiry = 3600;
+target = -4;
+flicker = false;
+flicker_speed = 3;
+shoot_delay = 60;
+shoot_delay_max = 120;
+offset_x = 0;
+offset_y = 0;

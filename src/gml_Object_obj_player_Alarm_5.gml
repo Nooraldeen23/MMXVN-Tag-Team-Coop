@@ -1,0 +1,1 @@
+wall_jump = false;

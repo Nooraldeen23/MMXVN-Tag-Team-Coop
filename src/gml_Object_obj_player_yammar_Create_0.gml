@@ -1,0 +1,16 @@
+event_inherited();
+life = 2;
+damage = 2;
+expiry = 1200;
+target = obj_player;
+orbit = 30;
+orbit_angle = 0;
+orbit_speed = 3;
+center_x = target.x;
+center_y = target.y;
+orbit_grow = 50;
+flicker = false;
+flicker_speed = 3;
+iframes = 0;
+shoot_delay = 0;
+shoot_delay_max = 15;

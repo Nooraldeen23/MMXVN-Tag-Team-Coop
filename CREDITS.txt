@@ -1,0 +1,37 @@
+MMXVN Tag Team Mod by nooraldeen - 0.3.8 beta
+Base: Viral Nightmare / The Cat Yard; Dragoon Mod / RaylerProductions.
+Original game credits remain in Credits+info.txt.
+Colonel actor cels and attack effects: Mega Man X4 / Capcom.
+Complete native cels and11 original effects extracted from the user's local PC X4 files.
+Quad format reference: Kuumba123 / TeheManX4_Editor (source read for format research).
+https://github.com/Kuumba123/TeheManX4_Editor
+X4 dialogue portrait sheet: ACE Spark / SpriteDatabase.
+https://spritedatabase.net/file/5031
+Energy Breaker voice: original Mega Man X4 English ThunderAttack, reference hosted by Mega Man Wiki.
+https://megaman.fandom.com/wiki/File:X4_Colonel_ThunderAttack_EN.ogg
+Earlier Colonel reference sheet: Eureka Drama X / SpriteDatabase.
+https://spritedatabase.net/file/19276
+Colonel music: user-supplied Mega Man X4 - Theme Colonel Redux.mp3.
+Natural1x speed; loudness normalization only. Original remix authorship retained.
+First boss and retained assets use Alysson da Paz / Mega Man X8 16-bit.
+https://github.com/AlyssonDaPaz/Mega-Man-X8-16-bit
+Their original credits and license are attached. Free distribution only; no monetization.
+Native MMXVN dialogue, scenery, HUD and animations retain original authorship.
+## About
+Mega Man X8 16-bit is a reimagining of the PS2 original with SNES styled graphics. The aim was to demake X8 in a similar feel to the first three Mega Man X games, while trying to actually finish a low-scope fangame. This fangame is fully playable from start to finish with X and runs on Godot Engine 3.5.
+
+## Credits
+- Alysson da Paz - Developer, Pixel Art, Sound Mixing
+- LuizMiguel - Consulting and Quality Assurance
+- Roberto Carlos Martinez Escudero - Spanish Localization
+- Samuel "Streg" Oliveira - Megaman 1 Boss Battle Remix
+
+- LuizMiguel, Medivelion, FadinTV, Megamanx_Zero, Shinobi_Speedruns, Koalacwb64, Vhevert, JandersonSilvaJS, SilverZ - Playtesting
+
+- HeaxDePolo, ZafersanToksoz, QuartoDoDu, KaneTV, JulinhoRockman, itzBruHere, OlimTR, CalebHart42, Nostalgia_Games_BR, Meruziin, Fubadas, BadGokuH, Vubidugil, Fixxer0, Bacaxi15, Xopa, MazaKoopa, Orlandobrx, LuizTeles, Zekinoma - Special Thanks
+
+## Notice
+Mega Man X8 16-bit is a free fangame. It is not affiliated, associated, authorized, endorsed or in any way connected with CAPCOM or any of it's subsidiaries or it's affiliates.
+
+Mega Man X and all Mega Man/Rockman material is a property of CAPCOM.
+Please support the offical release.

@@ -1,0 +1,12 @@
+event_inherited();
+villainy = 2;
+damage = 6;
+despawn = false;
+expiry = 150;
+speed = 3;
+phasing = true;
+explosion = spr_explosion_player;
+sprite_index = spr_tag_sigma_orb;
+image_speed = 0;
+image_xscale = 0.55;
+image_yscale = 0.55;

@@ -1,0 +1,11 @@
+event_inherited();
+villainy = 2;
+damage = 7;
+speed = 0;
+despawn = false;
+expiry = 30;
+phasing = true;
+piercing = true;
+sprite_index = spr_tag_sigma_beam_mask;
+image_speed = 0;
+image_xscale = -1;

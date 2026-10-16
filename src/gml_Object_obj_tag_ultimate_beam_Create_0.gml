@@ -1,0 +1,15 @@
+event_inherited();
+beam_timer = 0;
+beam_face = 1;
+speed = 0;
+damage = 18;
+despawn = false;
+expiry = 26;
+phasing = true;
+piercing = true;
+tick = false;
+sprite_index = spr_tag_beam_mask;
+image_speed = 0;
+palette_type = 0;
+beam_width = 400;
+scr_make_sound(snd_shoot_laser, 0.85, 0.88, false);

@@ -1,0 +1,16 @@
+event_inherited();
+villainy = 2;
+damage = 8;
+sprite_index = spr_tag_colonel_wave;
+image_speed = 0.4666666666666667;
+expiry = 110;
+despawn = false;
+phasing = true;
+col_face = -1;
+col_wave_scale = 1;
+col_wave_age = 0;
+col_wave_growth = 0.45;
+col_wave_role = 0;
+col_wall_impact = false;
+col_impact_tick = 0;
+col_wave_phase = 0;

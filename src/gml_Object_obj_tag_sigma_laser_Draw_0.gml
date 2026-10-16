@@ -1,0 +1,15 @@
+var c = draw_get_color();
+var a = draw_get_alpha();
+var beam_end = x + (190 * image_xscale);
+gpu_set_blendmode(bm_add);
+draw_set_color(c_lime);
+draw_set_alpha(0.22);
+draw_rectangle(x, y - (18 * image_yscale), beam_end, y + (18 * image_yscale), false);
+draw_set_alpha(0.6);
+draw_rectangle(x, y - (8 * image_yscale), beam_end, y + (8 * image_yscale), false);
+draw_set_color(c_white);
+draw_set_alpha(0.75);
+draw_rectangle(x, y - 2, beam_end, y + 2, false);
+gpu_set_blendmode(bm_normal);
+draw_set_color(c);
+draw_set_alpha(a);

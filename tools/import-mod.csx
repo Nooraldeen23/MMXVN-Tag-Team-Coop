@@ -1,0 +1,14 @@
+using System;
+using System.IO;
+using System.Linq;
+using UndertaleModLib.Compiler;
+EnsureDataLoaded();
+var source=Path.Combine(Environment.CurrentDirectory,"src");
+if(!Directory.Exists(source))throw new Exception("Run UndertaleModCli from the repository root (the directory containing src).");
+var files=Directory.GetFiles(source,"*.gml");
+if(files.Length==0)throw new Exception("No GML code found.");
+foreach(var file in files)if(!Data.Code.Any(c=>c.ParentEntry==null&&c.Name.Content==Path.GetFileNameWithoutExtension(file)))throw new Exception("Required code entry is missing: "+Path.GetFileName(file)+". Load the matching mod Beta, not the original game.");
+var group=new CodeImportGroup(Data){MainThreadAction=MainThreadAction};
+foreach(var file in files)group.QueueReplace(Path.GetFileNameWithoutExtension(file),File.ReadAllText(file));
+group.Import();
+Console.WriteLine("Imported "+files.Length+" mod code entries. Save to a separate game copy and test both modes.");

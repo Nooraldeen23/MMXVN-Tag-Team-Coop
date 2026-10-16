@@ -1,0 +1,11 @@
+event_inherited();
+coop_epoch = 0;
+coop_seen = current_time;
+villainy = 2;
+despawn = false;
+image_speed = 0;
+damage = 0;
+passive = true;
+xspeed = 0;
+yspeed = 0;
+movement_freeze = true;

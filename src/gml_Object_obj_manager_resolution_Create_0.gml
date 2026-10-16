@@ -1,0 +1,9 @@
+aspect_ratio = 0;
+zoom_scale = 4.5;
+window_scale = 3;
+global.view_width = 424;
+global.view_height = 240;
+resolution_width = 1920;
+resolution_height = 1080;
+surface_resize(application_surface, resolution_width, resolution_height);
+alarm[0] = 2;

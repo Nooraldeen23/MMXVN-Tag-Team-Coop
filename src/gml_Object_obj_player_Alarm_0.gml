@@ -1,0 +1,1 @@
+shooting_lock = false;

@@ -1,0 +1,9 @@
+lance_timer = 0;
+lance_target_x = x;
+lance_target_y = 540;
+lance_speed = 10;
+lance_landed = false;
+lance_ground_timer = 0;
+lance_old_x = x;
+lance_old_y = y;
+image_speed = 0;

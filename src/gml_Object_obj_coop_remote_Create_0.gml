@@ -1,0 +1,15 @@
+coop_character = "Zero";
+coop_hp = 32;
+coop_maxhp = 32;
+coop_palette = 0;
+coop_palette_sprite = -1;
+coop_flash = false;
+coop_seen = current_time;
+visible = false;
+image_speed = 0;
+coop_lives = 2;
+coop_spectating = false;
+coop_zone = "";
+coop_last_zone = "";
+coop_movable = false;
+coop_air = false;

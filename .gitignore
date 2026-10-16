@@ -1,0 +1,15 @@
+build/
+*.win
+*.dat
+*.exe
+*.dll
+*.zip
+*.mp4
+*.log
+*.err
+save_*.txt
+autosave_export.txt
+defaultsave_export.txt
+coop-*.json
+.env
+__pycache__/

@@ -1,0 +1,10 @@
+bolt_damage = 9;
+bolt_tick = 0;
+bolt_face = 1;
+bolt_speed = 4.4;
+bolt_fade = 0;
+bolt_active = true;
+image_speed = 0;
+sprite_index = spr_tag_colonel_ground_electric;
+bolt_kind = 0;
+bolt_height = 0;

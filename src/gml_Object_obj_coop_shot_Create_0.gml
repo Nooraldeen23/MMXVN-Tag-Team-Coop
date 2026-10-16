@@ -1,0 +1,14 @@
+event_inherited();
+coop_server_id = "";
+coop_seen = current_time;
+coop_owner = 0;
+image_speed = 0;
+expiry = -1;
+despawn = false;
+coop_expired = false;
+coop_epoch = 0;
+melee_slash = false;
+coop_draw_frame = 0;
+coop_slash = false;
+coop_palette_sprite = -1;
+coop_palette = 0;

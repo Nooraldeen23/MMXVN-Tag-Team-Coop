@@ -1,0 +1,12 @@
+dust_timer = 0;
+dust_face = 1;
+dust_chip = false;
+dust_vx = 0.4;
+dust_vy = -0.1;
+sprite_index = spr_effect_dust;
+image_index = 0;
+image_speed = 0;
+image_xscale = 0.26;
+image_yscale = 0.26;
+image_blend = make_color_rgb(175, 159, 188);
+image_alpha = 0.8;
